@@ -1,3 +1,5 @@
+<img src="https://www.xsights.co.uk/wp-content/uploads/2024/05/musteri-segmentasyonu.png" alt="Imagen de Customer Segmentation" width="700"/>
+
 # 🛒 Customer Segmentation with K-Means
 
 Este proyecto tiene como objetivo realizar una segmentación de clientes utilizando el algoritmo de K-Means. A través de este análisis, se busca identificar diferentes grupos de clientes basados en características como datos personales o hábitos de consumo.
